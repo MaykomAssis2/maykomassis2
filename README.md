@@ -23,7 +23,7 @@ Hello, I'm a Web Developer, I know a little bit about HTML, CSS and Javascript. 
 
 <h2>My Stats<h2><br>
 
-![Maykom's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykomAssis&show_icons=true&theme=radical)
+![Maykom's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykomAssis2&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykomAssis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
